@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>71B32BA6-181B-415C-8453-3BD07B99523A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Kings &amp; Corpses</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FC1484E2C70CB2B3ED5F93F33BA05E17665E31E1</key>
+		<string>https://github.com/mguniverse/kings-and-corpses.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Kings &amp; Corpses/Kings &amp; Corpses.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FC1484E2C70CB2B3ED5F93F33BA05E17665E31E1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mguniverse/kings-and-corpses.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FC1484E2C70CB2B3ED5F93F33BA05E17665E31E1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FC1484E2C70CB2B3ED5F93F33BA05E17665E31E1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>kings-and-corpses</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -313,6 +313,10 @@
 		D4CC6C1919870C44006E08D1 /* knight-large@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D4CC6C1719870C44006E08D1 /* knight-large@2x.png */; };
 		D4E16CE719D54E2600FF6296 /* necromancer-large.png in Resources */ = {isa = PBXBuildFile; fileRef = D4E16CE519D54E2600FF6296 /* necromancer-large.png */; };
 		D4E16CE819D54E2600FF6296 /* necromancer-large@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D4E16CE619D54E2600FF6296 /* necromancer-large@2x.png */; };
+		D4E1AE031B65EFF200798403 /* menu-button-pressed.png in Resources */ = {isa = PBXBuildFile; fileRef = D4E1ADFF1B65EFF200798403 /* menu-button-pressed.png */; };
+		D4E1AE041B65EFF200798403 /* menu-button-pressed@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D4E1AE001B65EFF200798403 /* menu-button-pressed@2x.png */; };
+		D4E1AE051B65EFF200798403 /* menu-button.png in Resources */ = {isa = PBXBuildFile; fileRef = D4E1AE011B65EFF200798403 /* menu-button.png */; };
+		D4E1AE061B65EFF200798403 /* menu-button@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D4E1AE021B65EFF200798403 /* menu-button@2x.png */; };
 		D4FD09791A37710300B051E2 /* king-alpha-large.png in Resources */ = {isa = PBXBuildFile; fileRef = D4FD09501A37710300B051E2 /* king-alpha-large.png */; };
 		D4FD097A1A37710300B051E2 /* king-alpha-large@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D4FD09511A37710300B051E2 /* king-alpha-large@2x.png */; };
 		D4FD097B1A37710300B051E2 /* king-alpha.png in Resources */ = {isa = PBXBuildFile; fileRef = D4FD09521A37710300B051E2 /* king-alpha.png */; };
@@ -691,6 +695,10 @@
 		D4CC6C1719870C44006E08D1 /* knight-large@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "knight-large@2x.png"; sourceTree = "<group>"; };
 		D4E16CE519D54E2600FF6296 /* necromancer-large.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "necromancer-large.png"; sourceTree = "<group>"; };
 		D4E16CE619D54E2600FF6296 /* necromancer-large@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "necromancer-large@2x.png"; sourceTree = "<group>"; };
+		D4E1ADFF1B65EFF200798403 /* menu-button-pressed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "menu-button-pressed.png"; sourceTree = "<group>"; };
+		D4E1AE001B65EFF200798403 /* menu-button-pressed@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "menu-button-pressed@2x.png"; sourceTree = "<group>"; };
+		D4E1AE011B65EFF200798403 /* menu-button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "menu-button.png"; sourceTree = "<group>"; };
+		D4E1AE021B65EFF200798403 /* menu-button@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "menu-button@2x.png"; sourceTree = "<group>"; };
 		D4FD09501A37710300B051E2 /* king-alpha-large.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "king-alpha-large.png"; sourceTree = "<group>"; };
 		D4FD09511A37710300B051E2 /* king-alpha-large@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "king-alpha-large@2x.png"; sourceTree = "<group>"; };
 		D4FD09521A37710300B051E2 /* king-alpha.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "king-alpha.png"; sourceTree = "<group>"; };
@@ -907,6 +915,7 @@
 		D468EC63198050F900F123B7 /* iPhone Assets */ = {
 			isa = PBXGroup;
 			children = (
+				D4E1ADFE1B65EFE200798403 /* New Buttons */,
 				D43BEFB51A6E47EC00842A01 /* about-pressed.png */,
 				D43BEFB61A6E47EC00842A01 /* about-pressed@2x.png */,
 				D43BEFB71A6E47EC00842A01 /* about-pressed@3x.png */,
@@ -1219,6 +1228,17 @@
 			path = Soundtrack;
 			sourceTree = "<group>";
 		};
+		D4E1ADFE1B65EFE200798403 /* New Buttons */ = {
+			isa = PBXGroup;
+			children = (
+				D4E1ADFF1B65EFF200798403 /* menu-button-pressed.png */,
+				D4E1AE001B65EFF200798403 /* menu-button-pressed@2x.png */,
+				D4E1AE011B65EFF200798403 /* menu-button.png */,
+				D4E1AE021B65EFF200798403 /* menu-button@2x.png */,
+			);
+			name = "New Buttons";
+			sourceTree = "<group>";
+		};
 		D4FD094E1A37710300B051E2 /* Themes */ = {
 			isa = PBXGroup;
 			children = (
@@ -1388,6 +1408,7 @@
 				D43BF06A1A6E47EC00842A01 /* how-to-play-pressed.png in Resources */,
 				D468ED5819805CC400F123B7 /* about-large-pressed.png in Resources */,
 				D4FD09961A37710300B051E2 /* knight-xl@3x.png in Resources */,
+				D4E1AE031B65EFF200798403 /* menu-button-pressed.png in Resources */,
 				D468ECAE198050F900F123B7 /* Icon@2x.png in Resources */,
 				D43BF0751A6E47EC00842A01 /* kings-corpses-preview.png in Resources */,
 				D468ED8E19805CC400F123B7 /* gameplay-mockup.psd in Resources */,
@@ -1400,6 +1421,7 @@
 				D4CC6C1419870A73006E08D1 /* win-screen-large.png in Resources */,
 				D47958661A3CCB1400E5DEA6 /* king-outline.png in Resources */,
 				D469C1A21A8BDC4400D15ECF /* necromancer-doge-large@2x.png in Resources */,
+				D4E1AE061B65EFF200798403 /* menu-button@2x.png in Resources */,
 				D4FD09971A37710300B051E2 /* pawn-xl-large.png in Resources */,
 				D43BF0AA1A6E47EC00842A01 /* skip-pressed.png in Resources */,
 				D468ED7619805CC400F123B7 /* pawn-large.png in Resources */,
@@ -1466,6 +1488,7 @@
 				D469C1A51A8BDC4400D15ECF /* pawn-doge-large.png in Resources */,
 				D43BF0831A6E47EC00842A01 /* more@2x.png in Resources */,
 				D47958751A3CCB1400E5DEA6 /* zombie-outline.png in Resources */,
+				D4E1AE051B65EFF200798403 /* menu-button.png in Resources */,
 				D43BF06E1A6E47EC00842A01 /* how-to-play@2x.png in Resources */,
 				D468ED8719805CC400F123B7 /* twitter-large-pressed@2x.png in Resources */,
 				D43BF0501A6E47EC00842A01 /* continue.png in Resources */,
@@ -1479,6 +1502,7 @@
 				D43BF0BD1A6E47EC00842A01 /* twitter-pressed@3x.png in Resources */,
 				D4FD09981A37710300B051E2 /* pawn-xl-large@2x.png in Resources */,
 				D468ED6419805CC400F123B7 /* generate-large-pressed.png in Resources */,
+				D4E1AE041B65EFF200798403 /* menu-button-pressed@2x.png in Resources */,
 				D43BF07B1A6E47EC00842A01 /* menu-pressed@3x.png in Resources */,
 				D469C1A11A8BDC4400D15ECF /* necromancer-doge-large.png in Resources */,
 				D43BF0401A6E47EC00842A01 /* about-pressed@3x.png in Resources */,
