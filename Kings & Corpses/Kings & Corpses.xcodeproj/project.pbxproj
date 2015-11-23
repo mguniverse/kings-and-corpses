@@ -21,6 +21,7 @@
 		D4033B53197F429700CF97E3 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4033B32197F429700CF97E3 /* UIKit.framework */; };
 		D4033B5B197F429700CF97E3 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D4033B59197F429700CF97E3 /* InfoPlist.strings */; };
 		D4033B5D197F429700CF97E3 /* Kings___CorpsesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D4033B5C197F429700CF97E3 /* Kings___CorpsesTests.m */; };
+		D413844D1C02EE0000D46C87 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D413844B1C02EE0000D46C87 /* LaunchScreen.storyboard */; };
 		D42686A11A362CCC007D4C78 /* select-large-pressed.png in Resources */ = {isa = PBXBuildFile; fileRef = D426869D1A362CCC007D4C78 /* select-large-pressed.png */; };
 		D42686A21A362CCC007D4C78 /* select-large-pressed@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D426869E1A362CCC007D4C78 /* select-large-pressed@2x.png */; };
 		D42686A31A362CCC007D4C78 /* select-large.png in Resources */ = {isa = PBXBuildFile; fileRef = D426869F1A362CCC007D4C78 /* select-large.png */; };
@@ -278,6 +279,8 @@
 		D469C1AA1A8BDC4400D15ECF /* zombie-doge-large@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D469C1961A8BDC4400D15ECF /* zombie-doge-large@2x.png */; };
 		D469C1AB1A8BDC4400D15ECF /* zombie-doge.png in Resources */ = {isa = PBXBuildFile; fileRef = D469C1971A8BDC4400D15ECF /* zombie-doge.png */; };
 		D469C1AC1A8BDC4400D15ECF /* zombie-doge@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D469C1981A8BDC4400D15ECF /* zombie-doge@2x.png */; };
+		D46D0BD51BA56FFB001FECBF /* thin-empty.png in Resources */ = {isa = PBXBuildFile; fileRef = D46D0BD31BA56FFB001FECBF /* thin-empty.png */; };
+		D46D0BD61BA56FFB001FECBF /* thin-empty@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D46D0BD41BA56FFB001FECBF /* thin-empty@2x.png */; };
 		D47958641A3CCB1400E5DEA6 /* king-outline-large.png in Resources */ = {isa = PBXBuildFile; fileRef = D47958501A3CCB1400E5DEA6 /* king-outline-large.png */; };
 		D47958651A3CCB1400E5DEA6 /* king-outline-large@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D47958511A3CCB1400E5DEA6 /* king-outline-large@2x.png */; };
 		D47958661A3CCB1400E5DEA6 /* king-outline.png in Resources */ = {isa = PBXBuildFile; fileRef = D47958521A3CCB1400E5DEA6 /* king-outline.png */; };
@@ -388,6 +391,7 @@
 		D4033B58197F429700CF97E3 /* Kings & CorpsesTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Kings & CorpsesTests-Info.plist"; sourceTree = "<group>"; };
 		D4033B5A197F429700CF97E3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D4033B5C197F429700CF97E3 /* Kings___CorpsesTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Kings___CorpsesTests.m"; sourceTree = "<group>"; };
+		D413844C1C02EE0000D46C87 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D426869D1A362CCC007D4C78 /* select-large-pressed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "select-large-pressed.png"; sourceTree = "<group>"; };
 		D426869E1A362CCC007D4C78 /* select-large-pressed@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "select-large-pressed@2x.png"; sourceTree = "<group>"; };
 		D426869F1A362CCC007D4C78 /* select-large.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "select-large.png"; sourceTree = "<group>"; };
@@ -659,6 +663,8 @@
 		D469C1961A8BDC4400D15ECF /* zombie-doge-large@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "zombie-doge-large@2x.png"; sourceTree = "<group>"; };
 		D469C1971A8BDC4400D15ECF /* zombie-doge.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "zombie-doge.png"; sourceTree = "<group>"; };
 		D469C1981A8BDC4400D15ECF /* zombie-doge@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "zombie-doge@2x.png"; sourceTree = "<group>"; };
+		D46D0BD31BA56FFB001FECBF /* thin-empty.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thin-empty.png"; sourceTree = "<group>"; };
+		D46D0BD41BA56FFB001FECBF /* thin-empty@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thin-empty@2x.png"; sourceTree = "<group>"; };
 		D47958501A3CCB1400E5DEA6 /* king-outline-large.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "king-outline-large.png"; sourceTree = "<group>"; };
 		D47958511A3CCB1400E5DEA6 /* king-outline-large@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "king-outline-large@2x.png"; sourceTree = "<group>"; };
 		D47958521A3CCB1400E5DEA6 /* king-outline.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "king-outline.png"; sourceTree = "<group>"; };
@@ -813,6 +819,7 @@
 				D4033B3E197F429700CF97E3 /* AppDelegate.m */,
 				D4033B40197F429700CF97E3 /* Main_iPhone.storyboard */,
 				D4033B43197F429700CF97E3 /* Main_iPad.storyboard */,
+				D413844B1C02EE0000D46C87 /* LaunchScreen.storyboard */,
 				D4033B35197F429700CF97E3 /* Supporting Files */,
 				D468ED091980510B00F123B7 /* ViewController_iPhone.h */,
 				D468ED0A1980510B00F123B7 /* ViewController_iPhone.m */,
@@ -871,6 +878,7 @@
 		D468EC36198050F900F123B7 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				D46D0BD21BA56FFB001FECBF /* Thin Pieces */,
 				D4CB9CFE1A436A60008EFD4F /* Soundtrack */,
 				D4FD094E1A37710300B051E2 /* Themes */,
 				D468ED1D19805CC400F123B7 /* iPad Assets */,
@@ -1192,6 +1200,15 @@
 			path = Doge;
 			sourceTree = "<group>";
 		};
+		D46D0BD21BA56FFB001FECBF /* Thin Pieces */ = {
+			isa = PBXGroup;
+			children = (
+				D46D0BD31BA56FFB001FECBF /* thin-empty.png */,
+				D46D0BD41BA56FFB001FECBF /* thin-empty@2x.png */,
+			);
+			path = "Thin Pieces";
+			sourceTree = "<group>";
+		};
 		D479584F1A3CCB1400E5DEA6 /* Outline */ = {
 			isa = PBXGroup;
 			children = (
@@ -1348,7 +1365,7 @@
 		D4033B23197F429700CF97E3 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0510;
+				LastUpgradeCheck = 0710;
 				ORGANIZATIONNAME = "Danny Perski";
 				TargetAttributes = {
 					D4033B2A197F429700CF97E3 = {
@@ -1474,6 +1491,7 @@
 				D43BF0631A6E47EC00842A01 /* empty@3x.png in Resources */,
 				D43BF0A31A6E47EC00842A01 /* retry@2x.png in Resources */,
 				D43BF05A1A6E47EC00842A01 /* done@3x.png in Resources */,
+				D46D0BD61BA56FFB001FECBF /* thin-empty@2x.png in Resources */,
 				D43BF0941A6E47EC00842A01 /* pawn.png in Resources */,
 				D42686A31A362CCC007D4C78 /* select-large.png in Resources */,
 				D468ED7D19805CC400F123B7 /* play-pressed@2x.png in Resources */,
@@ -1513,6 +1531,7 @@
 				D43BF0BC1A6E47EC00842A01 /* twitter-pressed@2x.png in Resources */,
 				D43BF0A41A6E47EC00842A01 /* select-pressed.png in Resources */,
 				D468ECA9198050F900F123B7 /* Icon-Small-50.png in Resources */,
+				D46D0BD51BA56FFB001FECBF /* thin-empty.png in Resources */,
 				D464E5981A57D7C1001EB22A /* done-large@2x.png in Resources */,
 				D468ED8A19805CC400F123B7 /* zombie-large.png in Resources */,
 				D43BF0701A6E47EC00842A01 /* incomplete-emblem.png in Resources */,
@@ -1646,6 +1665,7 @@
 				D43BF0491A6E47EC00842A01 /* challenges-pressed@2x.png in Resources */,
 				D42686A21A362CCC007D4C78 /* select-large-pressed@2x.png in Resources */,
 				D43BF0961A6E47EC00842A01 /* pawn@3x.png in Resources */,
+				D413844D1C02EE0000D46C87 /* LaunchScreen.storyboard in Resources */,
 				D43BF0AB1A6E47EC00842A01 /* skip-pressed@2x.png in Resources */,
 				D4FD098F1A37710300B051E2 /* king-xl.png in Resources */,
 				D468ED1A19805BC900F123B7 /* Icon-76.png in Resources */,
@@ -1793,6 +1813,14 @@
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
+		D413844B1C02EE0000D46C87 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D413844C1C02EE0000D46C87 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
@@ -1814,6 +1842,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -1872,16 +1901,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COMPRESS_PNG_FILES = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Kings & Corpses/Kings & Corpses-Prefix.pch";
 				INFOPLIST_FILE = "Kings & Corpses/Kings & Corpses-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mguniverse.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "0f739e9a-408c-4de1-a4d7-269220537fb6";
+				PROVISIONING_PROFILE = "c8e13fa3-d0c6-4226-be0b-4aec95614f9c";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -1890,14 +1919,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COMPRESS_PNG_FILES = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Kings & Corpses/Kings & Corpses-Prefix.pch";
 				INFOPLIST_FILE = "Kings & Corpses/Kings & Corpses-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mguniverse.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "3f802530-369d-4403-be8f-fea9e215d3b9";
 				WRAPPER_EXTENSION = app;
@@ -1920,6 +1949,7 @@
 					"$(inherited)",
 				);
 				INFOPLIST_FILE = "Kings & CorpsesTests/Kings & CorpsesTests-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mguniverse.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
@@ -1938,6 +1968,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Kings & Corpses/Kings & Corpses-Prefix.pch";
 				INFOPLIST_FILE = "Kings & CorpsesTests/Kings & CorpsesTests-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mguniverse.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
